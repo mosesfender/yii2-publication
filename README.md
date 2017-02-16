@@ -1,1 +1,1 @@
-# yi2-publication
+# yii2-publication
